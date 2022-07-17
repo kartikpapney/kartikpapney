@@ -13,7 +13,8 @@ University welcomes you to my Github Portfolio.
 </a>
     <img src="./asset/can.gif" width="300px">
 
-- Something else: I can lift 280 pounds (👀) 🏋?
+- Something else? I can lift (🏋) 280 pounds (👀) ?
+<br>
     <img src="./asset/gym.gif" width="300px"> 
 
 Skills:
