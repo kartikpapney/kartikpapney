@@ -11,11 +11,11 @@ University welcomes you to my Github Portfolio.
 - 🛠 I’m currently working on Scalable Systems Backend Engineering.
 - ❤️️ I Love Problem Solving
 </a>
-    <img src="./asset/can.gif" width="300px">
+    <img src="./asset/can.gif" width="600px">
 
 - Something else? I can lift (🏋) 280 pounds (👀) ?
 <br>
-    <img src="./asset/gym.gif" width="300px"> 
+    <img src="./asset/gym.gif" width="600px"> 
 
 Skills:
 
