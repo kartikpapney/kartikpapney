@@ -9,11 +9,11 @@ I, Kartik Papney, B.Tech CSE, Tezpur University welcomes you to my Github Portfo
 
 <div style="display: flex; justify-content: center">
     <div>
-    <ul>
+    <ul style="width: 50%">
         <li>
         I’m currently working on Scalable Systems Backend Engineering.</li>
         <li>
-        Excelent Problem Solving Skils 
+        <p>Excelent Problem Solving Skils</p>
         <a href="www.leetcode.com/kartikpapney" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-kartikpapney-yellow?style=flat&logo=leetcode"></a>
         <a href="https://www.codechef.com/users/kartikpapney" target="_blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-kartikpapney-brown?style=flat&logo=codechef"></a>
         <a href="https://codeforces.com/profile/kartikpapney" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-kartikpapney-blue?style=flat&logo=codeforces"></a>
