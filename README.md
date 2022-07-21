@@ -1,39 +1,93 @@
-[![Header](./asset/programmer.gif)](https://martinheinz.dev/)
-# Hello, Aliens! <img src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/wave.gif" width="30px"> 
-I, Kartik Papney, B.Tech CSE, Tezpur 
-University welcomes you to my Github Portfolio.
 
+<div style="display: flex; justify-content: center">
+    <img src="./asset/programmer.gif" height="200px"> 
+</div>
 
-<img src="./asset/welcome.gif" width="300px"> 
-
+I, Kartik Papney, B.Tech CSE, Tezpur University welcomes you to my Github Portfolio.
 
 ## About
-- 🛠 I’m currently working on Scalable Systems Backend Engineering.
-- ❤️️ I Love Problem Solving
-</a>
-    <img src="./asset/can.gif" width="600px">
 
-- Something else? I can lift (🏋) 280 pounds (👀) ?
-<br>
-    <img src="./asset/gym.gif" width="600px"> 
+<div style="display: flex; justify-content: center">
+    <div>
+    <ul>
+        <li>
+        I’m currently working on Scalable Systems Backend Engineering.</li>
+        <li>
+        Excelent Problem Solving Skils 
+        <a href="www.leetcode.com/kartikpapney" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-kartikpapney-yellow?style=flat&logo=leetcode"></a>
+        <a href="https://www.codechef.com/users/kartikpapney" target="_blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-kartikpapney-brown?style=flat&logo=codechef"></a>
+        <a href="https://codeforces.com/profile/kartikpapney" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-kartikpapney-blue?style=flat&logo=codeforces"></a>
+        </li>
+    </ul>
+    </div>
+    <div>
+        <img src="./asset/can.gif">
+    </div>
+</div>
 
-Skills:
+## Skills
+<ul>
+    <li>
+        Programming Languages
+        <ul>
+            <li>C</li>
+            <li>Java</li>
+            <li>Javascript</li>
+        </ul>
+    </li>
+    <li>
+        CS Fundamentals
+        <ul>
+            <li>Data structures & Algorithms</li>
+            <li>Object Oriented Programming</li>
+            <li>Database Management System</li>
+            <li>Operating Systems</li>
+        </ul>
+    </li>
+    <li>
+        Backend Framework & Technologies
+        <ul>
+            <li>NodeJS</li>
+            <li>Google Appscript</li>
+            <li>HTTP REST API Development</li>
+            <li>Firebase Services (RTDB, Firestore, Hosting)</li>
+        </ul>
+    </li>
+    <li>
+        Frontend Framework & Technologies
+        <ul>
+            <li>ReactJS</li>
+            <li>HTML, CSS, Bootstrap, MaterialUI</li>
+        </ul>
+    </li>
+    <li>
+        Databases
+        <ul>
+            <li>SQL (MySQL)</li>
+            <li>NoSQL (MongoDB, Firebase Firestore, RTDB)</li>
+        </ul>
+    </li>
+    <li>
+        Other Tools & Technologies
+        <ul>
+            <li>Git</li>
+            <li>Linux Terminal</li>
+        </ul>
+    </li>
+</ul>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Connect with me :
 
-<a href="mailto:pdt.kartik@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pdt.kartik@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:pdt.kartik@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pdt.kartik@gmail.com-red?style=flat&logo=gmail"></a>
 
-<a href="https://www.linkedin.com/in/kartik-papney-4951161a6//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kartik%20Papney-blue?style=flat&logo=linkedin">
+<a href="https://www.linkedin.com/in/kartik-papney-4951161a6//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kartik%20Papney-blue?style=flat&logo=linkedin"></a>
+
+<a href="https://github.com/kartikpapney" target="_blank"><img alt="Github" src="https://img.shields.io/badge/LinkedIn-Kartik%20Papney-gray?style=flat&logo=github"></a>
+
+
+
+## Github Stats
 
 <a href="https://github.com/kartikpapney/kartikpapney">
     <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kartikpapney&show_icons=true&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&text_color=004D0A&title_color=111111&icon_color=111111" />
