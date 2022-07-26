@@ -1,10 +1,10 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center">
-    <div>
+    <div style="display: flex; justify-content: center">
         <img src="./asset/programmer.gif" > 
     </div>
-    <div>
-        <p>I, Kartik Papney, B.Tech CSE, Tezpur University welcomes you to my Github Portfolio.</p>
+    <div style="display: flex; justify-content: center">
+        <h6>I, Kartik Papney, B.Tech CSE, Tezpur University welcomes you to my Github Portfolio.</h6>
     </div>
 </div>
 
