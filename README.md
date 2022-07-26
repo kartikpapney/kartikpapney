@@ -1,9 +1,12 @@
 
-<div style="display: flex; justify-content: center">
-    <img src="./asset/programmer.gif" height="200px"> 
+<div style="display: flex; flex-direction: column; justify-content: center">
+    <div>
+        <img src="./asset/programmer.gif" > 
+    </div>
+    <div>
+        <p>I, Kartik Papney, B.Tech CSE, Tezpur University welcomes you to my Github Portfolio.</p>
+    </div>
 </div>
-
-I, Kartik Papney, B.Tech CSE, Tezpur University welcomes you to my Github Portfolio.
 
 ## About
 
@@ -90,7 +93,7 @@ I, Kartik Papney, B.Tech CSE, Tezpur University welcomes you to my Github Portfo
 ## Github Stats
 
 <a href="https://github.com/kartikpapney/kartikpapney">
-    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kartikpapney&show_icons=true&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&text_color=004D0A&title_color=111111&icon_color=111111" />
+    <img align="left" alt="Kartik Papney Stats" src="https://github-readme-stats.vercel.app/api?username=kartikpapney&show_icons=true&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&text_color=004D0A&title_color=111111&icon_color=111111" />
 </a>
 <a href="https://github.com/kartikpapney/kartikpapney">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpapney&title_color=111111&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&layout=compact" />
