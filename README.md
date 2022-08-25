@@ -1,9 +1,6 @@
 
-<p align="center">
- 
-![image](./asset/programmer.gif)
-
-</p>
+<img src="./asset/can.gif" alt="drawing" width="100%"/>
+<p align="center">Yes, I can code all day 😊</p>
 
 ## About
 
@@ -19,10 +16,6 @@
         <a href="https://codeforces.com/profile/kartikpapney" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-kartikpapney-blue?style=flat&logo=codeforces"></a>
         </li>
     </ul>
-    </div>
-    <div>
-        <img src="./asset/can.gif">
-    </div>
 </div>
 
 ## Skills
