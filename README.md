@@ -35,73 +35,6 @@ I'm a Backend Developer with expertise in Node.js, Go, and TypeScript. Currently
 - Worked on Salesdrive CRM tool with 10K+ monthly active sessions, projected to store 1M+ leads and 10K+ employees' data
 - Implemented key features and optimizations using Node.js, React.js, MongoDB, and Redis
 
-## 💻 Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <h3>Programming</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <h3>Backend</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />
-        <br><br>
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="40" />
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <h3>Frontend</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
-        <br><br>
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <h3>Databases</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" />
-        <br><br>
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" height="40" />
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <h3>DevOps & Cloud</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" />
-        <br><br>
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -113,6 +46,9 @@ I'm a Backend Developer with expertise in Node.js, Go, and TypeScript. Currently
   </a>
   <a href="https://github.com/kartikpapney/codeforces-rankup">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartikpapney&repo=codeforces-rankup&bg_color=0D1117&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF&hide_border=true" />
+  </a>
+  <a href="https://github.com/kartikpapney/experiments">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartikpapney&repo=experiments&bg_color=0D1117&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF&hide_border=true" />
   </a>
 </div>
 
